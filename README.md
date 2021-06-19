@@ -76,7 +76,7 @@
 
 ### Results
 Below is the result when the provided sample file was run through this program.
-![Program Output](https://pasteboard.co/K7m3rt6.png)
+[Program Output](https://pasteboard.co/K7m3rt6.png)
 
 Below is the output when the unit tests are ran
-![Unit Tests Output](https://pasteboard.co/K7m4a1X.png)
+[Unit Tests Output](https://pasteboard.co/K7m4a1X.png)
